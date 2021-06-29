@@ -7,15 +7,16 @@ Install Open-CV library in your interpreter if it is not present. Once installed
 
 Copy the image you want to convert to the pencil sketch and paste it in the project folder and write the name of the picture in the code test.py.
 
+# Working of the Project
 Once you run the code multiple windows will open up.
 
-First one will be the original image that you copied in the folder.
+* First one will be the original image that you copied in the folder.
 
-Second one will be the gray image.
+* Second one will be the gray image.
 
-Third one will be the inverted image.
+* Third one will be the inverted image.
 
-Fourth image is out desired output that is the pencil sketch.
+* Fourth image is out desired output that is the pencil sketch.
 
 In the end there will be two windows one will be the original image and the other the pencil sketch showing the transformation that has occured in the image.
 
